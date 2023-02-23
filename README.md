@@ -1,4 +1,3 @@
-# Comprehensive data exploration with Python
+# Learning Data Science Through Kaggle
 
-this repo is based on kaggle notebook below:
-https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
+This a repo I'm building to learn data science through kaggle notebooks by applying the same techniques to my own data.
